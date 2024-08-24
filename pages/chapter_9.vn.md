@@ -95,7 +95,7 @@ Có thể nói đây là ví dụ hiệu quả nhất về tự thiêu và tự 
 
 ## Nghiên cứu trường hợp 25: Một nữ sinh trung học cơ sở tự thiêu vì loạn luân[^incest]
 
-[^incest]: Như các trường hợp khác, khó để mà tìm được bất cứ nguồn gốc nào của vụ việc, nhưng có một trang này, của, "idol ảo trên mạng tiyu12tuổi"?! có nhắc đến trường hợp cụ thể này cho nghị luận của họ. Thử đọc xem nếu bạn thây hứng thú: [Tiyu12tuổi](http://tiyu.to/permalink.cgi?file=news/01_03_19)
+[^incest]: Như các trường hợp khác, khó để mà tìm được bất cứ nguồn gốc nào của vụ việc trên mạng, nhưng có một trang này, của, "idol ảo trên mạng tiyu12tuổi"?! có nhắc đến trường hợp cụ thể này cho nghị luận của họ: tại sao không đi thiêu chết mục tiêu trả thù mà lại tự thiêu bản thân. Thử đọc xem nếu bạn thây hứng thú: [Tiyu12tuổi](http://tiyu.to/permalink.cgi?file=news/01_03_19)
 
 Một nữ sinh trung học cơ sở mười hai tuổi đã tự tử bằng cách tự thiêu trong sân nhà chú mình.
 Bố mẹ cô bé ly hôn ngay sau khi cô bé chào đời và cô bé đã mất mẹ. Em được bà nuôi dưỡng. Do công việc của bố, em đã chuyển trường tiểu học và trung học cơ sở hai lần. Em ấy lớn lên trong một môi trường gia đình rất phức tạp. Lý do bố mẹ cô bé ly hôn là vì mẹ cô bé có quan hệ tình dục với chú của cô bé.

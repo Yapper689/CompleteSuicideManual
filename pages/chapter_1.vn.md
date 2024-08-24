@@ -25,7 +25,7 @@ Trong chú thích cuối trang của biên dịch viên tiếng Anh CotardSyndro
 
 ]
 
-Nếu bạn có thể làm được, dùng thuốc quá liều là cách tốt nhất để tự tử. Tuy nhiên, có rất nhiều trường hợp thất bại và việc thời gian chuẩn bị quá lâu cũng là một vấn đề lớn. Độ đau khác nhau tùy thuộc vào loại thuốc.
+Nếu bạn có quyết tâm, dùng thuốc quá liều là cách tốt nhất để tự tử. Tuy nhiên, có rất nhiều trường hợp thất bại và việc thời gian chuẩn bị quá lâu cũng là một vấn đề lớn. Độ đau khác nhau tùy thuộc vào loại thuốc.
 
 Trên bàn rải rác những viên nang và viên nén có nhiều màu sắc khác nhau như đỏ, vàng và xanh lam, hoặc một đống bột trắng như tuyết. Khi bạn nuốt những viên thuốc này, bạn sẽ từ từ chìm vào giấc ngủ và không bao giờ tỉnh lại nữa. Đây như một giấc ngủ yên bình kéo dài, và do đó, đây là phương pháp tự tử lý tưởng nhất, chỉ có thể đạt được thông qua thuốc.
 

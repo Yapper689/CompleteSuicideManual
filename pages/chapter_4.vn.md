@@ -52,7 +52,7 @@ Mặc dù tôi đã bác bỏ việc cắt cổ tay vì cho rằng nó chẳng c
 | Đau đớn | ▼▼▽▽▽ |
 | Rắc rối | ▼▽▽▽▽ |
 | Xấu | ▼▼▼▽▽ |
-| Gây phiền | ▼▼▼▼▽ |
+| Gây náo động | ▼▼▼▼▽ |
 | Tác động | ▼▼▼▼▽ |
 | Sát lực | ▼▼▽▽▽ |
 
@@ -97,7 +97,7 @@ Bạn muốn biết cảm giác máu của chính mình phun tận lên trần n
 | Đau đớn | ▼▼▼▼▼ |
 | Rắc rối | ▼▼▽▽▽ |
 | Xấu | ▼▼▼▼▽ |
-| Gây phiền | ▼▼▼▼▽ |
+| Gây náo động | ▼▼▼▼▽ |
 | Tác động | ▼▼▼▼▼ |
 | Sát lực | ▼▼▽▽▽ |
 
@@ -208,7 +208,7 @@ Tuy nhiên, vấn đề sau khi cắt là nếu cắt động mạch một cách
 
 ### Động mạch cảnh -- máu phun ra trong mười hai giây
 
-Điều gì sẽ xảy ra nếu một người cắt đứt hoàn toàn một trong hai động mạch cảnh bên trái hoặc bên phải? Máu sẽ phun ra và bắn lên trần nhà hoặc tường trong khoảng năm giây. Người đó sẽ bất tỉnh, chức năng não ngừng hoạt động và người đó sẽ chết do mất hầu hết máu sau hơn mười giây (theo một nghiên cứu, là mười hai giây). Một số người tin rằng khi một động mạch cảnh bị cắt đứt, động mạch cảnh còn lại vẫn đưa máu lên não và bệnh nhân vẫn tỉnh táo trong khoảng ba phút. Nhưng tuyên bố rằng sẽ tử vong ngay lập tức vẫn đáng tin cậy hơn.
+Điều gì sẽ xảy ra nếu một người cắt đứt hoàn toàn một trong hai động mạch cảnh bên trái hoặc bên phải? Máu sẽ phun ra và bắn lên trần nhà hoặc tường trong khoảng năm giây. Người đó sẽ bất tỉnh, chức năng não ngừng hoạt động và sẽ chết do mất hầu hết máu sau hơn mười giây (theo một nghiên cứu, là mười hai giây). Một số người tin rằng khi một động mạch cảnh bị cắt đứt, động mạch cảnh còn lại vẫn đưa máu lên não và bệnh nhân vẫn tỉnh táo trong khoảng ba phút. Nhưng tuyên bố rằng sẽ tử vong ngay lập tức vẫn đáng tin cậy hơn.
 
 Người ta thường biết rằng vận động viên chạy marathon Kokichi Tsuburaya[^tsuburaya] đã tự tử bằng cách cắt đứt động mạch cảnh của mình. Anh ta nằm trên giường và sử dụng một lưỡi dao hai đầu để cắt động mạch cảnh bên phải của mình.
 

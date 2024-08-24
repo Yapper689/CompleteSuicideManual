@@ -1,4 +1,4 @@
-# Additional information
+# Thông tin bổ sung
 *Phần này là hoàn toàn được viết bởi CotardSyndrome, biên dịch viên tiếng Anh. Nhưng tôi đã thêm một ghi chú riêng nhỏ cho trang web này.*
 
 ## Siêu dữ liệu
@@ -104,7 +104,7 @@ Ghi chú dịch thuật của CotardSyndrome cho biết anh ấy đã phát hi�
 
 Chú thích của Rena có thể khó nhìn vì định dạng `<sup>...</sup>` không được hỗ trợ đầy đủ ở đây.
 
-Không có cú pháp Markdown nào từ phiên bản tiếng Anh đã bị thay đổi nhiều. Tuy nhiên, tôi thấy rằng trang web này khiến các liên kết Markdown để tạo điều hướng giữa các chương khá là rắc rối và có thể gây ra lỗi 404 (tôi lười), vì vậy tôi đã xóa bỏ chúng hoàn toàn. Như đã đề cập trong ghi chú dịch thuật của CotardSyndrome, các trình phân tích cú pháp khác nhau sẽ diễn giải cùng một tài liệu theo cách khác nhau, do đó, các bảng trên trang web này trông sẽ hơi khác một chút, tôi đã không định dạng chúng kỹ lưỡng. Trình kết xuất Markdown của Nextra không hỗ trợ đầy đủ các bảng HTML, do đó các bảng đó trong phiên bản tiếng Anh đã được thay thế bằng các bảng Markdown thông thường (các bảng gốc vẫn nằm trong các tệp Markdown). Xin lỗi vì [sự bất tiện này](./index.en).
+Không có cú pháp Markdown nào từ phiên bản tiếng Anh đã bị thay đổi nhiều. Tuy nhiên, tôi thấy rằng trang web này khiến các liên kết Markdown để tạo điều hướng giữa các chương khá là rắc rối và có thể gây ra lỗi 404 (tôi lười), vì vậy tôi đã xóa bỏ chúng hoàn toàn. Như đã đề cập trong ghi chú dịch thuật của CotardSyndrome, các trình phân tích cú pháp khác nhau sẽ diễn giải cùng một tài liệu theo cách khác nhau, do đó, các bảng trên trang web này trông sẽ hơi khác một chút, tôi đã không định dạng chúng kỹ lưỡng. Trình kết xuất Markdown của Nextra không hỗ trợ đầy đủ các bảng HTML, do đó các bảng đó trong phiên bản tiếng Anh đã được thay thế bằng các bảng Markdown thông thường (các bảng gốc vẫn nằm trong các tệp Markdown). Xin lỗi vì [sự bất tiện này](./index.vn).
 
 ## Trích dẫn
 

@@ -118,7 +118,7 @@ Cô ấy đã đâm vào đoàn tàu vừa mới khởi hành từ phía trướ
 
 ## Nghiên cứu trường hợp 16: Người phụ nữ bị đè chết trong đường hầm Seikan
 
-Vào tháng 3 năm 1991, thi thể của một người phụ nữ 26 tuổi được phát hiện gần Ga Yoshioka-Kaitei trong Đường hầm Seikan dưới Eo biển Tsugaru ngăn cách Honshu và Hokkaido. Cả hai tay và chân đều bị cắt đứt hoàn toàn phía trên trán. Tuy nhiên, Ga Yoshioka-Kaitei là một ga dự phòng thảm họa trong số hai ga không có người trực trong Đường hầm Seikan, nằm ở bên cạnh đường hầm. Các chuyến tàu không dừng ở đó, vì vậy đây không phải là nơi mà người bình thường có thể tùy ý đi vào. Làm sao cô ấy có thể chết ở một nơi như vậy?
+Vào tháng 3 năm 1991, thi thể của một người phụ nữ 26 tuổi được phát hiện gần Ga Yoshioka-Kaitei trong Đường hầm Seikan dưới Eo biển Tsugaru ngăn cách Honshu và Hokkaido. Cả hai tay và chân đều bị cắt đứt hoàn toàn phía trên trán. Tuy nhiên, Ga Yoshioka-Kaitei là một nhà ga tránh thảm họa trong số hai ga không có người trực trong Đường hầm Seikan, nằm ở bên cạnh đường hầm. Các chuyến tàu không dừng ở đó, vì vậy đây không phải là nơi mà người bình thường có thể tùy ý đi vào. Làm sao cô ấy có thể chết ở một nơi như vậy?
 
 Kết quả điều tra cho thấy người phụ nữ này đã mất tích từ ngày hôm kia. Cô quyết định trở về nhà ở Tokyo vào ngày 18 và vụ việc xảy ra trên đường về nhà từ Sapporo. Cô đã bị suy nhược thần kinh cách đây không lâu và cô đã quyết định tự tử. Cô đã đi tàu tốc hành khởi hành lúc 22:00 cùng ngày. Khi cô đi qua Ga Yoshioka-Kaitei vào khoảng 3:50 ngày hôm sau, cô trèo lên khi tàu đang chậm lại. Sau khi vào phòng lái tàu, cô ấy mở cửa sổ và nhảy ra ngoài. Sau đó, cô nằm xuống đường ray xe lửa ở phía bên kia và bị tàu đè chết vào khoảng bốn giờ.
 
@@ -132,6 +132,6 @@ Nằm trên đường ray và chờ chết là rất khó, đặc biệt là ở
 
 Việc cắt đứt hoàn toàn phần trên trán cũng rất quan trọng. Bạn có thể tưởng tượng được sức mạnh cắt lớn của bánh xe lửa. Người ta cho rằng cô ấy đang nằm trên đường ray, dựa trên tình trạng của cơ thể. Nếu bạn nhảy ra trước tàu, rất có thể bạn sẽ bị nghiền nát thành từng mảnh. Nếu bạn nằm ngửa, bạn sẽ bị cắt gọn gàng thành từng đoạn. Đây là nguồn cảm hứng tuyệt vời cho những người cố gắng tự tử bằng cách nằm trên đường ray xe lửa ở một nơi nào đó ngoài nhà ga.
 
-Trong cốt truyện của tiểu thuyết bí ẩn *Seikan Murder Express Train Route* (青函特急殺人ルート) của Nishimura Kyotaro, có một xác chết của người phụ nữ được tìm thấy tại Ga Yoshioka-Kaitei. Có thể cô ấy đã đọc tiểu thuyết này.
+Trong cốt truyện của một cuốn tiểu thuyết trinh thám *Seikan Murder Express Train Route* (青函特急殺人ルート) của Nishimura Kyotaro, có một xác chết của người phụ nữ được tìm thấy tại Ga Yoshioka-Kaitei. Có thể cô ấy đã đọc tiểu thuyết này.
 
-Nói như vậy, thật không thể tưởng tượng được một người có thể nằm trên đường ray và chờ đợi hơn mười phút trong bóng tối lạnh lẽo dưới độ sau dưới biển 150 mét. Không thể tưởng tượng được một người bình thường có thể trải qua trải nghiệm cực kỳ khủng khiếp vượt quá nỗi sợ hãi thông thường như thế. Tâm lý trước khi tự tử thực sự rất khó hiểu.
+Nói như vậy, thật không thể tưởng tượng được một người có thể nằm trên đường ray và chờ đợi hơn mười phút trong bóng tối lạnh lẽo dưới độ sâu dưới biển 150 mét. Không thể tưởng tượng được một người bình thường có thể trải qua trải nghiệm cực kỳ khủng khiếp vượt quá nỗi sợ hãi thông thường như thế. Tâm lý trước khi tự tử thực sự rất khó hiểu.
