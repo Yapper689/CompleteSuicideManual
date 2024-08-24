@@ -299,7 +299,7 @@ Ghi chú của biên dịch viên tiếng Việt: Tôi cũng không dịch phầ
 
 | Tên sản phẩm | Nguyên liệu | Liều gây chết | Liều lượng (gây chết) |
 | - | - | - | - |
-| Serushin, Diazepam, Sonakon | Diazepam | Khoảng 500mg (J) <br> Nhiều hơn 500mg (H) | Nhiều hơn 100 pills |
+| Serushin, Diazepam, Sonakon | Diazepam | Khoảng 500mg (J) <br> Nhiều hơn 500mg (H) | Nhiều hơn 100 viên |
 
 Gần đây, một số bác sĩ trị liệu tâm thần đã kê đơn thuốc bừa bãi. Khi bạn mở cửa cho bác sĩ tâm thần và nói với bác sĩ rằng bạn "không ngủ được" hoặc "cảm thấy bồn chồn", thì khả năng cao là một loại thuốc chống lo âu như "Serushin" hoặc "Diazepam" sẽ được kê đơn ngay lập tức. Đôi khi, bác sĩ nội khoa cũng sẽ kê đơn này. Sau khi nhận được đơn thuốc chống lo âu từ bác sĩ tâm thần, bạn nói "Nó không hiệu quả" và yêu cầu đổi thuốc. Bởi vì các bác sĩ cũng cần thử loại nào phù hợp hơn với bệnh nhân.
 

@@ -11,6 +11,9 @@ const config: DocsThemeConfig = {
       <link rel="icon" type="image/png" href="/icon.png"></link>
     </>
   ),
+  project: {
+    link: 'https://github.com/Yapper689/CompleteSuicideManual-VN',
+  },
   toc: {
     float: true,
   },
