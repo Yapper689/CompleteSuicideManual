@@ -85,7 +85,7 @@ Khi nhảy từ vách đá xuống, có thể xảy ra nhiều tình huống kh�
 
 Nhảy vách đá đôi khi có thể không đáng tin cậy. Hai nữ sinh trung học cơ sở đã tự tử bằng cách nhảy từ một vách đá cao 60 mét. Một người chết, nhưng người kia được cứu. Nhảy từ một vách đá trong cùng một điều kiện, kết quả thực sự lại rất khác nhau. Hơn nữa, cho dù vách đá có dốc đến đâu, bạn cũng không nhất thiết sẽ chết nếu rơi xuống biển. Vì vậy, trong trường hợp này, hãy chọn những địa điểm nổi tiếng. Có lí do các danh lam thắng cảnh được gọi là danh lam thắng cảnh. Nếu bạn chọn vách đá, bạn có thể chọn từ Mũi Ashizuri ở Shikoku hoặc Nishikigaura ở Atami, Shizuoka hoặc các thác nước như Thác Kegon.
 
-## Hình dạng tử thi: thương tích khắp nơi, nhưng trông không kinh dị
+## Ngoại hình tử thi: thương tích khắp nơi, nhưng trông không kinh dị
 
 Như một người đàn ông 54 tuổi nghĩ sau khi nhảy, bộ phận nào của cơ thể sẽ chạm đất trước?
 

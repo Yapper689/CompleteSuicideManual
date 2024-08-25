@@ -31,7 +31,7 @@ Trên bàn rải rác những viên nang và viên nén có nhiều màu sắc k
 
 Một số loại thuốc kiểm soát tâm trí. Não là một thiết bị kiểm soát hệ thống chịu trách nhiệm cho sự tự tổ chức của cơ thể con người. Cho dù đó là chức năng hô hấp hay kiểm soát nhịp tim, các chức năng của các hoạt động duy trì sự sống đều do não kiểm soát. Cần lưu ý ở đây là kỹ thuật được sử dụng để phá hủy toàn bộ hệ thống "bản thân" bằng cách làm mất dần đi sự phối hợp của thiết bị điều khiển này thông qua thuốc là một loại phương pháp tự phẫu thuật cắt thùy não.
 
-Thuốc không gây chết người không phải là thuốc
+Thuốc không gây chết người không phải là thuốc.
 
 Bất kể loại thuốc nào, đều có "liều hiệu quả", "liều độc" và "liều gây chết / liều tử vong". Một số chuyên gia cũng nói rằng "Liều lượng tạo ra chất độc". Bất kỳ loại thuốc nào cũng có thể gây tử vong. Chỉ là khoảng cách giữa liều hiệu quả và liều gây chết thường khá lớn. Để đạt được liều gây chết, phải nuốt một lượng đáng kể, một nhiệm vụ khó khăn. Với khoa học dược phẩm hiện đại, khoảng cách này ngày càng rộng hơn. Nói cách khác, thuốc ngày càng an toàn hơn. Những gì tôi muốn mô tả ở đây là những loại thuốc có khoảng cách hẹp.
 

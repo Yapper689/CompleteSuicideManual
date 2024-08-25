@@ -18,7 +18,17 @@ At this point, I really want to start the book by describing how overdose works.
 
 [^commercial-concerns]: The author meant that the book should have a long preface, as it is conventional for books to have a long preface.
 
-## Chernobyl
+## Chernobyl[^Chernobyl-disaster]
+
+[^Chernobyl-disaster]:
+    The Chernobyl disaster, which occurred on April 26, 1986, at the Chernobyl nuclear power plant in Soviet Ukraine, had significant political implications and far-reaching consequences.
+    >* Health and Environmental Impact: The explosion at the Chernobyl plant released a large amount of radiation into the atmosphere, causing acute radiation sickness (ARS) in many individuals. Over two hundred non-fatal cases of ARS were confirmed among those on-site and involved in cleanup efforts. The contamination from radioactive fallout led to a higher incidence of childhood thyroid cancer in the affected areas.
+    >
+    >* Political Consequences: The Chernobyl accident prompted nuclear energy policy to become a major public issue. Distrust and unease grew between Soviet citizens, especially those in evacuated and nearby areas, and President Gorbachev’s regime. Gorbachev faced criticism for withholding crucial information from Western civilizations, undermining his legitimacy and transparency efforts. The financial burden of the disaster contributed to a loss of faith in the socio-economic acceleration of the country.
+    >
+    >* Fall of the Soviet Union: The combination of moral, financial, and health losses caused by Chernobyl is considered one of the events that eventually led to the collapse of the Soviet Union.
+    >
+    >* Pripyat: The town of Pripyat, built to house workers and their families, had a population of around 50,000 people. Evacuation occurred rapidly after the reactor explosion, but the government took time to inform citizens of the full extent of the disaster. Some Pripyat residents, including firefighters, lost their lives trying to contain the radioactive fire.
 
 > ... I was waiting for the opportunity, ready to "show something big". When the student riots broke out twenty years ago, everyone thought, "Someone big is about to appear!". The Apollo landing on the moon, the oil crisis, the Soviet Union's invasion of a certain country, and the Showa era were about to end. I thought, "This move will be earth-shattering.". However, it was only a magnitude-3 earthquake, and it only brought down a wall. The students looked at each other, smiled and said "Great!" and with that, the gathering came to an end. ...
 > 

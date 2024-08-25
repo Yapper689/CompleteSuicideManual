@@ -18,7 +18,17 @@ Giờ, tôi thực sự muốn bắt đầu cuốn sách bằng cách mô tả c
 
 [^commercial-concerns]: Tác giả muốn cuốn sách phải có phần lời tựa dài, theo thường lệ.
 
-## Chernobyl
+## Chernobyl[^Chernobyl-disaster]
+
+[^Chernobyl-disaster]:
+    Tai nạn Chernobyl, xảy ra vào ngày 26 tháng 4 năm 1986 tại nhà máy điện hạt nhân Chernobyl ở Ukraine thuộc Liên Xô, đã có những hệ quả chính trị đáng kể và ảnh hưởng xa rộng.
+    >* Tác động đến sức khỏe và môi trường: Vụ nổ tại nhà máy Chernobyl đã thải ra một lượng lớn phóng xạ vào không khí, gây bệnh tình phóng xạ cấp tính (ARS) cho nhiều người. Hơn hai trăm trường hợp ARS không gây tử vong đã được xác nhận trong số những người làm việc tại hiện trường và tham gia công tác dọn dẹp. Sự ô nhiễm từ phóng xạ đã dẫn đến tăng cao tỷ lệ ung thư tuyến giáp ở trẻ em trong các khu vực bị ảnh hưởng.
+    >
+    >* Hậu quả chính trị: Tai nạn Chernobyl đã khiến chính sách năng lượng hạt nhân trở thành một vấn đề quan trọng trong dư luận. Sự mất lòng tin và lo âu gia tăng giữa các công dân Liên Xô, đặc biệt là những người ở các khu vực được sơ tán và gần khu vực tai nạn, và chế độ của Tổng thống Gorbachev. Gorbachev bị chỉ trích vì giấu các thông tin quan trọng khỏi phương Tây, ảnh hưởng đến tính hợp pháp và nỗ lực minh bạch của ông. Gánh nặng tài chính từ thảm họa đã đóng góp vào sự mất niềm tin vào giảm tăng trưởng kinh tế xã hội của đất nước.
+    >
+    >* Sự sụp đổ của Liên Xô:Sự kết hợp giữa những tổn thất về đạo đức, tài chính và sức khỏe do Chernobyl gây ra được coi là một trong những sự kiện dẫn đến sự sụp đổ của Liên Xô.
+    >
+    >* Thị trấn Pripyat: Thị trấn Pripyat, được xây dựng để ở đây cho công nhân và gia đình họ, có dân số khoảng 50.000 người. Sơ tán diễn ra nhanh chóng sau vụ nổ reaktor, nhưng chính phủ vẫn mất một khoảng thời gian để thông báo cho người dân về tầm ảnh hưởng thực sự của thảm họa. Một số cư dân Pripyat, bao gồm cả lính cứu hỏa, đã mất mạng trong quá trình kiểm soát đám cháy phóng xạ.
 
 > ... Tôi đã luôn chờ đợi một cơ hội, sẵn sàng để "thể hiện một điều gì đó lớn lao". Khi cuộc bạo loạn của sinh viên nổ ra cách đây hai mươi năm, mọi người đều nghĩ, "Một ai đó to tướng sắp xuất hiện!". Cuộc đổ bộ lên mặt trăng của Apollo, cuộc khủng hoảng dầu mỏ, cuộc xâm lược của Liên Xô vào một quốc gia nào đó và kỷ nguyên Showa sắp kết thúc. Tôi nghĩ, "Động thái này sẽ làm rung chuyển trái đất". Tuy nhiên, nó chỉ là một trận động đất có cường độ 3 độ richter và nó chỉ làm đổ một bức tường. Các sinh viên nhìn nhau, mỉm cười và nói "Tuyệt!" và với đó, cuộc tụ họp đã kết thúc. ... 
 >
@@ -100,21 +110,3 @@ Trong lúc tuyệt vọng và tìm cách tự tử, tôi tình cờ tìm thấy 
 Vì kiến ​​thức y và dược của tôi còn kém, và tôi đang trên bờ vực rối trí và sụp đổ vào thời điểm hiệu đính, nên nội dung của cuốn sách sẽ không thể tránh khỏi những sai và thiếu sót. Xin hãy tha thứ cho tôi.
 
 Cuối cùng, tôi muốn cảm ơn người dịch phiên bản tiếng Trung phồn thể của cuốn sách này và tất cả những người đã giúp đỡ tôi trong suốt quá trình qua. Nếu không có các bạn, sẽ không có điều gì có thể xảy ra trong ngày hôm nay. (Rena, 2018-08-05)
-
-<!--
-
-## Một điều nữa nữa
-
-*Phần này do tôi lảm nhảm.*
-
-Tôi đang dịch cuốn sách vào một thời điểm đen tối trong cuộc đời. Tất nhiên đã có nhiều thời điểm đen tối xảy ra, nhưng cái nào cũng tệ hơn cái trước, và tôi không chắc mình có thể vượt qua nó lần này. Không biết từ lúc nào mà tôi đã đánh mất kiểm soát cuộc đời, nhưng việc dịch cuốn sách này, cũng như một vài thứ ngớ ngẩn khác, đã phần nào giúp tôi lấy lại nó. Và tôi sẽ tiếp tục làm, những dự án ngu xuẩn và sẽ bị bỏ hoang, cho đến khi tôi không thể. Nó làm tôi bớt cô đơn hơn. "Những thứ tiếp theo", tôi không thể đoán trước được, nhưng nó sẽ là một thử thách mà tôi, không cần phải nhưng muốn, vượt qua. Nếu không vượt qua nổi, thì đây có thể sẽ là lời từ biệt cuối cùng của tôi với cuộc đời. Có hai cách để lấy lại quyền kiểm soát, sống hoặc ngừng sống, và cách thứ hai dễ hơn nhiều.
-
-Tôi từng mong muốn cuộc đời tôi bất hạnh và xui xẻo hơn nhiều, để tôi có một lý do chính đáng để tự tử. Nhưng giờ tôi nhận ra, cuộc đời nó vốn dĩ tệ sẵn rồi, và tôi tự tử lúc nào cũng được, đó là quyền của tôi. "We live in a world of shit" - Full Metal Jacket. Vâng, cái suy nghĩ ở trước là từ bài "Something in the way" mà ra, và như Kurt Cobain, tôi đang đấu tranh với sự lố bịch (anh ấy đã thua). Cuốn sách này là do người Nhật viết, cho người Nhật, nhưng không có nghĩa là bạn không thể áp dụng nó ở Việt Nam, tôi đã suy tầm những cẩm nang mini do những con dời khốn khổ người Việt viết trên mạng ở đây để tham khảo: [1](https://kenhsinhvien.vn/t/7-cach-chet-don-gian.98796/) [2](https://kenhsinhvien.vn/t/7-cach-tu-tu-co-ban-nhat.12642/) [3](https://kenhsinhvien.vn/t/7-cach-tu-tu-hieu-qua-va-don-gian.109989/) [4](https://mmo4me.com/threads/cam-nang-tu-tu-dac-biet-danh-cho-ai-dang-co-nhu-cau.35100/).
-
-Tôi muốn khẳng định là tôi không ủng hộ việc tự tử, nhưng tôi ủng hộ việc lấy lại quyền kiểm soát cuộc đời, và đôi khi điều duy nhất có thể để thỏa mãn điều đó là tự tử.
-
-Tôi thừa nhận rằng tôi nói tiếng Việt "kém", với một vốn từ vựng hạn chế. Bản dịch này có phần khô và thô, nhưng nó là điệu văn của tôi, do tôi nói tiếng Anh dễ hơn. Nói thế, ít có những người dịch tiếng Việt "tốt" và có thể hiểu rõ nghĩa, ngụ ý và ý định của người viết bản gốc, nên tôi nghĩ điệu văn của tôi là hoản hảo để dịch cuốn sách này. Cảm ơn một lần nữa Rena và CotardSyndrome đã chú thích và trích dẫn tỉ mỉ các chi tiết trong sách nên tôi không cần phải quan tâm lắm đến việc trích dẫn thêm nữa. Nhưng nếu bạn muốn thực sự hiểu được tất cả những gì đã được viết, xin lỗi vì sự bất tiện (tôi lười).
-
-Cảm ơn những người lạ trên mạng đã cho tôi động lực để làm những thứ tôi muốn. Không có họ, tôi có lẽ vẫn sẽ như một thằng nghiện lang thang ngoài đường (trên mạng). Cảm ơn cuốn sách đã dạy tôi cách để chết, và cho tôi biết tôi có quyền được chết. Tôi đã phát ngán với cuộc sống tầm thường vô hướng này lắm rồi! Cuốn sách này được ban tặng cho tôi như một món quà sinh nhật, một khẩu súng, tôi không biết tôi sẽ chĩa nó vào đâu, nhưng tôi phải bắn mới biết được.
-
--->

@@ -102,7 +102,7 @@ Bố mẹ cô bé ly hôn ngay sau khi cô bé chào đời và cô bé đã m�
 
 Tuy nhiên, lý do khiến em tự tử còn phức tạp hơn. Cô bé cũng đã có quan hệ tình dục với ông nội và bố của mình. Em ấy luôn bị ám ảnh bởi điều này, và khi đó em vẫn đang học năm nhất trung học cơ sở, và em bắt đầu nghỉ học trong một thời gian dài hai tháng trước kỳ nghỉ hè. Cuối cùng, một ngày nọ, ngay sau buổi trưa, cô bé đã đến sân sau nhà chú mình, nơi đã khiến bố mẹ ly hôn, đổ xăng khắp người và tự thiêu.
 
-Cô bé thường chơi bóng chuyền ở trường và tạo ấn tượng là một học sinh bình thường.
+Cô bé thường chơi bóng chuyền ở trường và có vẻ là một học sinh bình thường.
 
 ### Kiểm tra: nguyên nhân tử vong
 

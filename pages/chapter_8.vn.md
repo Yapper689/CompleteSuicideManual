@@ -43,7 +43,7 @@ Mùa tốt nhất là mùa đông. Khi nhiệt độ nước thấp, mọi ngư�
 
 ## Kinh nghiệm: Đây là cách một vận động viên bơi lội lão luyện đã chết đuối
 
-Bây giờ chúng ta hãy mô tả cách một vận động viên bơi lội có thể chết đuối.
+Bây giờ chúng ta hãy tìm hiểu cách một vận động viên bơi lội có thể chết đuối.
 
 Tốt nhất là nên ra khơi vào ban đêm. Nếu bạn cứ bơi về phía trước, bạn sẽ theo dòng nước và bơi đến vùng biển sâu. Bạn sẽ nhanh chóng mệt mỏi, nhưng bạn không thể dừng lại. Sóng ở vùng biển khơi rất lớn, vì vậy bạn sẽ uống nhiều nước hơn và nước trong khí quản sẽ gây ra tình trạng nghẹt thở nghiêm trọng. Trong quá trình liên tục uống, khạc nhổ và sặc nước, nước cũng sẽ đi vào ống tai nối miệng và tai. Đây chính là chìa khóa. Một số người nói rằng: "Tai có màng nhĩ và nước sẽ chảy vào ba ống bán khuyên". Nhưng nước vẫn chảy vào từ miệng.
 

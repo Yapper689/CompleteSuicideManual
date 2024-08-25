@@ -17,5 +17,9 @@
   "additional_information": {
     "title": "Thông tin bổ sung",
     "type": "page"
+  },
+  "note": {
+    "title": "Note",
+    "display": "hidden"
   }
 }
