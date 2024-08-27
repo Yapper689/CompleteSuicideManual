@@ -2,14 +2,17 @@
 
 ![](/img/9_0.png)
 
-| | |
-| --- | --- |
-| Pain | ▼▼▼▼▼ |
-| Trouble | ▼▼▼▽▽ |
-| Ugliness | ▼▼▼▼▽ |
-| Ripple | ▼▼▽▽▽ |
-| Impact | ▼▼▼▼▼ |
-| Lethality | ▼▼▼▼▼ |
+Pain  ▼▼▼▼▼ 
+
+Trouble  ▼▼▼▽▽ 
+
+Ugliness  ▼▼▼▼▽ 
+
+Ripple  ▼▼▽▽▽ 
+
+Impact  ▼▼▼▼▼ 
+
+Lethality  ▼▼▼▼▼ 
 
 Has the strongest impact on others, can definitely kill you, and it can also burn your name into the history books. However, the pain is also the most intense and the death is miserable. There are many cases where people with 100% skin burns did not die immediately and were sent to the hospital, where they struggled for a long time before dying. The consequences of not dying are more tragic than any other means of suicide. For those who want to die an ordinary death, I will never advise them to adopt this method. However, if you want to accuse this society of something with your death, there is no way more dramatic than self-immolation. Thích Quảng Đức, the Vietnamese monk who protested the government in the Vietnam War, the students who recently committed suicide for the anti-government movement in South Korea,[^korea-immolation] and the cadre of the Kamagasaki Joint Struggle Committee in Japan who fought to improve the treatment of the grassroots working class,[^kamagasaki] they all committed suicide by self-immolation and caught the attention of society. Yes, the image of being surrounded by flames and shouting his opinions is very influential.
 

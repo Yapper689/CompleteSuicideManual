@@ -2,14 +2,19 @@
 
 ![](/img/4_0.png)
 
-| **Cắt cổ tay** | |
-| --- | --- |
-| Đau đớn | ▼▼▽▽▽ |
-| Rắc rối | ▼▽▽▽▽ |
-| Xấu | ▼▽▽▽▽ |
-| Gây náo động | ▼▼▽▽▽ |
-| Tác động | ▼▽▽▽▽ |
-| Sát lực | ▼▽▽▽▽ |
+**Cắt cổ tay**  
+
+Đau đớn  ▼▼▽▽▽ 
+
+Rắc rối  ▼▽▽▽▽ 
+
+Xấu  ▼▽▽▽▽ 
+
+Gây náo động  ▼▼▽▽▽ 
+
+Tác động  ▼▽▽▽▽ 
+
+Sát lực  ▼▽▽▽▽ 
 
 <table>
     <thead>
@@ -47,14 +52,19 @@
 
 Mặc dù tôi đã bác bỏ việc cắt cổ tay vì cho rằng nó chẳng có tác dụng gì ngoài việc nếm mùi tự tử, chứ không phải là tự tử thực sự, nhưng nó vẫn có khả năng gây tử vong. Đây là một trong những cách chết thanh thản nhất ngay cả khi nó hiệu quả, nhưng hãy chuẩn bị cho khả năng thất bại, điều này khả năng cao sẽ xảy ra.
 
-| **Cắt động mạch cảnh** | |
-| --- | --- |
-| Đau đớn | ▼▼▽▽▽ |
-| Rắc rối | ▼▽▽▽▽ |
-| Xấu | ▼▼▼▽▽ |
-| Gây náo động | ▼▼▼▼▽ |
-| Tác động | ▼▼▼▼▽ |
-| Sát lực | ▼▼▽▽▽ |
+**Cắt động mạch cảnh**  
+
+Đau đớn  ▼▼▽▽▽ 
+
+Rắc rối  ▼▽▽▽▽ 
+
+Xấu  ▼▼▼▽▽ 
+
+Gây náo động  ▼▼▼▼▽ 
+
+Tác động  ▼▼▼▼▽ 
+
+Sát lực  ▼▼▽▽▽ 
 
 <table>
     <thead>
@@ -92,14 +102,19 @@ Mặc dù tôi đã bác bỏ việc cắt cổ tay vì cho rằng nó chẳng c
 
 Bạn muốn biết cảm giác máu của chính mình phun tận lên trần nhà không? Nó khá là kinh hoàng và khả năng thất bại là cao nên đây không phải là một phương pháp tốt.
 
-| **Seppuku** | |
-| --- | --- |
-| Đau đớn | ▼▼▼▼▼ |
-| Rắc rối | ▼▼▽▽▽ |
-| Xấu | ▼▼▼▼▽ |
-| Gây náo động | ▼▼▼▼▽ |
-| Tác động | ▼▼▼▼▼ |
-| Sát lực | ▼▼▽▽▽ |
+**Seppuku**  
+
+Đau đớn  ▼▼▼▼▼ 
+
+Rắc rối  ▼▼▽▽▽ 
+
+Xấu  ▼▼▼▼▽ 
+
+Gây náo động  ▼▼▼▼▽
+
+Tác động  ▼▼▼▼▼ 
+
+Sát lực  ▼▼▽▽▽ 
 
 <table>
     <thead>

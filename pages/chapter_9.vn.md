@@ -2,14 +2,17 @@
 
 ![](/img/9_0.png)
 
-| | |
-| --- | --- |
-| Đau đớn | ▼▼▼▼▼ |
-| Rắc rối | ▼▼▼▽▽ |
-| Xấu | ▼▼▼▼▽ |
-| Gây náo động | ▼▼▽▽▽ |
-| Tác động | ▼▼▼▼▼ |
-| Sát lực | ▼▼▼▼▼ |
+Đau đớn  ▼▼▼▼▼ 
+
+Rắc rối  ▼▼▼▽▽ 
+
+Xấu  ▼▼▼▼▽ 
+
+Gây náo động  ▼▼▽▽▽ 
+
+Tác động  ▼▼▼▼▼ 
+
+Sát lực  ▼▼▼▼▼ 
 
 Có tác động mạnh nhất đến người khác, chắc chắn có thể giết chết bạn, và nó cũng có thể ghi tên bạn vào sách sử. Tuy nhiên, nỗi đau cũng là dữ dội nhất và cái chết thì thảm khốc. Có nhiều trường hợp những người bị bỏng da 100% không chết ngay mà được đưa đến bệnh viện, nơi họ vật lộn trong một thời gian dài trước khi chết. Hậu quả của việc không chết còn bi thảm hơn bất kỳ hình thức tự tử nào khác. Đối với những người muốn chết một cách bình thường, tôi sẽ không bao giờ khuyên họ áp dụng phương pháp này. Tuy nhiên, nếu bạn muốn đổ lỗi cho xã hội này về điều gì đó bằng cái chết của bạn, thì không có cách nào kịch tính hơn là tự thiêu. Thích Quảng Đức[^monk], một nhà sư Việt Nam phản đối chính phủ trong Chiến tranh Việt Nam, những sinh viên gần đây đã tự tử vì phong trào phản đối chính phủ ở Hàn Quốc,[^korea-immolation] và những cán bộ Ủy ban ở Kamagasaki ở Nhật Bản đã đấu tranh để cải thiện chế độ đối xử với giai cấp công nhân cơ sở,[^kamagasaki] tất cả họ đều đã tự tử bằng cách tự thiêu và thu hút sự chú ý đông đảo của xã hội. Đúng vậy, hình ảnh được bao quanh bởi ngọn lửa và hét lên quan điểm của mình có sức ảnh hưởng rất lớn.
 

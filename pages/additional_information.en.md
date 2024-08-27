@@ -100,9 +100,9 @@ The document is *mostly* compliant to the extended Markdown syntax. Why *mostly*
 
 The entirety of the English version is directly copied onto the site and I mostly translated the book based on that edition, with some minor corrections, annotations and notes of my own. I don't know neither Japanese nor Chinese so this is my only source of reference. Same with the others', there will be plenty of mistakes, but unfortunately I'm not a perfectionist, and it's highly unlikely that one will ever come here again.
 
-CotardSyndrome's translation note said he had caught most of the mistakes of the Taiwanese edition. Well I caught most of his edition's.
+CotardSyndrome's translation note said he had caught most of the mistakes of the Taiwanese edition. Well I caught most of his edition's. The Chinese edition pdf file is displayed in full.
 
-Rena's footnotes might be hard to see since the `<sup>...</sup>` format is not fully supported here.
+Rena's footnotes might be hard to see since the `<sup>...</sup>` format is not fully supported here. Or it is but it will be mixed in with CotardSyndrome's footnotes.
 
 No Markdown syntax from the English version has been heavily altered. However, I do find that this site makes its Markdown links to create navigations between chapters troublesome and might cause 404 (I'm lazy), so i removed them entirely. As mentioned in CotardSyndrome's translation notes, different parsers interpret the same document differently, so the tables on this site look slightly different, I did not format them thoroughly. Nextra's Markdown renderer does not fully support HTML tables, so those in the English edition has been replaced with regular Markdown tables (the original tables are still in the Markdown files). Sorry for the [inconvenience](./index.en).
 

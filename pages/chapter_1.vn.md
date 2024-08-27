@@ -11,6 +11,18 @@
 | Tác động[^impact] | ▼▽▽▽▽ |
 | Sát lực | ▼▽▽▽▽ |
 
+Đau đớn －－－－－
+
+Rắc rối ▼▼▼▼▼
+
+Xấu ▼▽▽▽▽
+
+Gây náo động[^ripple] ▼▽▽▽▽
+
+Tác động[^impact] ▼▽▽▽▽
+
+Sát lực ▼▽▽▽▽
+
 [^ripple]: 迷惑, mức độ gây phiền cho người khác nếu bạn chết bằng cách này.
 
 [^impact]: インパクト, dịch đúng là "tác động". Tuy nhiên, tôi không thể hiểu được nghĩa của nó. Nó có phải có nghĩa là "tác động trực quan của cảnh tượng xác chết lên người khác" không? Nhưng tại sao chúng ta lại có một danh mục riêng cho "Xấu" và "Tác động"? Đối với hầu hết các phương pháp, hai hàng này khá giống nhau, ngoại trừ việc chết đuối có "Xấu" 4/5, nhưng "Tác động" 1/5. Thật khó để hiểu.

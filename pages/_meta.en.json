@@ -14,6 +14,10 @@
   "chapter_11": "11. Special cases",
   "chapter_12": "Appendix: Suicide statistics",
   "chapter_13": "Postscript",
+  "chinese_edition": {
+    "title": "Chinese Translation",
+    "type": "page"
+  },
   "additional_information": {
     "title": "Additional Information",
     "type": "page"

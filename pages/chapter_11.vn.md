@@ -9,15 +9,18 @@ Phim ảnh và TV thường chiếu cảnh chĩa súng vào giữa hai lông mà
 Trong chương này, chúng ta hãy tìm hiểu về các phương pháp tự tử khác dựa trên các nghiên cứu điển hình.
 
 ## Nghiên cứu trường hợp 27: Hai chị em chết đói ở khu chung cư Toei, phường Adachi, Tokyo
+ 
+Đau đớn  ▼▼▼▼▽ 
 
-| | |
-| --- | --- |
-| Đau đớn | ▼▼▼▼▽ |
-| Rắc rối | ▼▽▽▽▽ |
-| Xấu | ▼▼▼▽▽ |
-| Gây náo động | ▼▽▽▽▽ |
-| Tác động | ▼▼▽▽▽ |
-| Sát lực | ▼▽▽▽▽ |
+Rắc rối  ▼▽▽▽▽ 
+
+Xấu  ▼▼▼▽▽ 
+
+Gây náo động  ▼▽▽▽▽ 
+
+Tác động  ▼▼▽▽▽ 
+
+Sát lực  ▼▽▽▽▽ 
 
 Vào tháng 8 năm 1985, người ta tìm thấy thi thể đang phân hủy của hai người phụ nữ trong một căn phòng tại khu chung cư Toei (都営団地), phường Adachi (足立区), Tokyo. Đây là một cặp chị em gái 25 và 23 tuổi. Nguyên nhân tử vong là do đói. Thời gian tử vong ước tính là từ cuối năm 1984 đến khoảng tháng 2 năm 1985. Bên cạnh thi thể, có một phong bì cũ với dòng chữ "Tôi sẽ cho bạn thấy tôi chết." do người chị viết.
 
@@ -55,14 +58,17 @@ Một số người nói rằng chết đói là cách tốt nhất để tự t
 
 ## Nghiên cứu trường hợp 28: Người đàn ông tự tử trong bãi cát lún ở Cồn cát Tottori
 
-| | |
-| --- | --- |
-| Đau đớn | ▼▼▼▼▽ |
-| Rắc rối | ▼▼▼▼▼ |
-| Xấu | ▼▼▽▽▽ |
-| Gây náo động | ▼▽▽▽▽ |
-| Tác động | ▼▼▼▽▽ |
-| Sát lực | ▼▼▼▽▽ |
+Đau đớn  ▼▼▼▼▽ 
+
+Rắc rối  ▼▼▼▼▼ 
+
+Xấu  ▼▼▽▽▽ 
+
+Gây náo động  ▼▽▽▽▽ 
+
+Tác động  ▼▼▼▽▽ 
+
+Sát lực  ▼▼▼▽▽ 
 
 Vào tháng 11 năm 1988, bộ xương của một người đàn ông được phát hiện tại Cồn cát Tottori[^tottori]. Vào khoảng một giờ chiều hôm đó, một ông già dân địa phương đang đi bộ ở một nơi gần như vắng vẻ, cách xa các tuyến du lịch đã tìm thấy một hộp sọ hơi lộ ra trên cát. Sau khi gọi cảnh sát, ông đào lên bằng một chiếc xẻng nhỏ bằng tay trái, ngồi xổm như thể đang giữ tay trước ngực. Có một thi thể trong hố cát.
 
@@ -80,14 +86,17 @@ Cồn cát Tottori là một địa điểm bí mật ở Nhật Bản nổi ti�
 
 ## Nghiên cứu trường hợp 29: Người phụ nữ bị gấu con cắn chết
 
-| | |
-| --- | --- |
-| Đau đớn | ▼▼▼▼▽ |
-| Rắc rối | ▼▼▽▽▽ |
-| Xấu | ▼▼▼▼▽ |
-| Gây náo động | ▼▼▽▽▽ |
-| Tác động | ▼▼▼▼▽ |
-| Sát lực | ▼▼▼▼▽ |
+Đau đớn  ▼▼▼▼▽ 
+
+Rắc rối  ▼▼▽▽▽ 
+
+Xấu  ▼▼▼▼▽ 
+
+Gây náo động  ▼▼▽▽▽ 
+
+Tác động  ▼▼▼▼▽ 
+
+Sát lực  ▼▼▼▼▽ 
 
 Vào khoảng bảy giờ tối tháng 2 năm 1989, một bà nội trợ 67 tuổi đã chạy vội đến Trại gấu Aso trong Vườn Hoàng Đạo ở Thị trấn Aso, Tỉnh Kumamoto[^cuddly-dominion], cách nhà bà khoảng một tiếng rưỡi, và nhảy vào chuồng gấu con.
 
@@ -110,14 +119,17 @@ Tự tử bằng cách bị động vật ăn thịt là một phương pháp b�
 
 ## Nghiên cứu trường hợp 30: Người phụ nữ Mỹ chết khi sử dụng thiết bị tự tử
 
-| | |
-| --- | --- |
-| Đau đớn | ▼▽▽▽▽ |
-| Rắc rối | ▼▼▼▼▼ |
-| Xấu | ▼▽▽▽▽ |
-| Gây náo động | ▼▽▽▽▽ |
-| Tác động | ▼▼▼▽▽ |
-| Sát lực | ▼▼▼▼▼ |
+Đau đớn  ▼▽▽▽▽ 
+
+Rắc rối  ▼▼▼▼▼ 
+
+Xấu  ▼▽▽▽▽ 
+
+Gây náo động  ▼▽▽▽▽ 
+
+Tác động  ▼▼▼▽▽ 
+
+Sát lực  ▼▼▼▼▼ 
 
 Tiến sĩ bệnh học người Mỹ Jack Kevorkian nổi tiếng vì đã phát minh một thiết bị tự tử độc đáo "Thanatron". Thiết bị này có thiết kế cao 30 cm chứa dung dịch muối sinh lý, Pentothal và kali clorua trong ba chai được treo ngược. Pentothal là thuốc gây mê được sử dụng trong phẫu thuật và kali clorua là một loại thuốc mạnh được sử dụng trong đầu độc và hành quyết. Cấu trúc của nó là sau khi người tình nguyện tự tử nhấn nút, bộ đếm thời gian bắt đầu và nước muối tự động chuyển thành Pentothal. Một phút sau, kali clorua bắt đầu chảy vào cơ thể.
 

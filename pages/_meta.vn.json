@@ -14,12 +14,16 @@
   "chapter_11": "11. Các phương pháp đặc biệt",
   "chapter_12": "Phụ lục: Thống kê tự tử",
   "chapter_13": "Tái bút",
+  "chinese_edition": {
+    "title": "Bản dịch tiếng Trung",
+    "type": "page"
+  },
   "additional_information": {
     "title": "Thông tin bổ sung",
     "type": "page"
   },
   "note": {
-    "title": "Note",
+    "title": "OKOK",
     "display": "hidden"
   }
 }

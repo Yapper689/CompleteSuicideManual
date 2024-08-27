@@ -4,14 +4,17 @@
 
 ## (1) Gas poisoning in the car
 
-| | |
-| --- | --- |
-| Pain | ▼▼▽▽▽ |
-| Trouble | ▼▼▼▼▼ |
-| Ugliness | ▼▽▽▽▽ |
-| Ripple | ▼▽▽▽▽ |
-| Impact | ▼▽▽▽▽ |
-| Lethality | ▼▼▼▽▽ |
+Pain  ▼▼▽▽▽ 
+
+Trouble  ▼▼▼▼▼ 
+
+Ugliness  ▼▽▽▽▽ 
+
+Ripple  ▼▽▽▽▽ 
+
+Impact  ▼▽▽▽▽ 
+
+Lethality  ▼▼▼▽▽ 
 
 Connect a pipe from the car's exhaust outlet to the car window and block the gap. It is quite time-consuming and laborious, but it can lead to an easy death and the death is not too ugly.
 

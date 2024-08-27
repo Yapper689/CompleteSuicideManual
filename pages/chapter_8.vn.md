@@ -2,14 +2,17 @@
 
 ![](/img/8_0.png)
 
-| | |
-| --- | --- |
-| Đau đớn | ▼▼▼▼▽ |
-| Rắc rối | ▼▼▽▽▽ |
-| Xấu | ▼▼▼▼▽ |
-| Gây náo động | ▼▼▼▽▽ |
-| Tác động | ▼▽▽▽▽ |
-| Sát lực | ▼▼▼▼▽ |
+Đau đớn  ▼▼▼▼▽ 
+
+Rắc rối  ▼▼▽▽▽ 
+
+Xấu  ▼▼▼▼▽ 
+
+Gây náo động  ▼▼▼▽▽ 
+
+Tác động  ▼▽▽▽▽ 
+
+Sát lực  ▼▼▼▼▽ 
 
 Có thể thực hiện ở bất cứ đâu miễn là có nước. Nhưng khoảnh khắc ngạt thở rất đau đớn và cái chết thì thật thảm thương. Xét về tổng thể, đây không phải là cách tự tử tốt.
 

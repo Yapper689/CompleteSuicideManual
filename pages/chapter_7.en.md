@@ -1,13 +1,16 @@
 # 7. Electrocuting
 
-| | |
-| --- | --- |
-| Pain | ▼▼▼▽▽ |
-| Trouble | ▼▼▼▼▽ |
-| Ugliness | ▼▽▽▽▽ |
-| Ripple | ▼▽▽▽▽ |
-| Impact | ▼▽▽▽▽ |
-| Lethality | ▼▽▽▽▽ |
+Pain  ▼▼▼▽▽ 
+
+Trouble  ▼▼▼▼▽ 
+
+Ugliness  ▼▽▽▽▽ 
+
+Ripple  ▼▽▽▽▽ 
+
+Impact  ▼▽▽▽▽ 
+
+Lethality  ▼▽▽▽▽ 
 
 Gentler than generally imagined. The disadvantages are: a few seconds of electric shock, and the trouble of stripping the skin off the wires.
 

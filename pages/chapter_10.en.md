@@ -1,15 +1,18 @@
 # 10. Freezing
 
 ![](/img/10_0.png)
+ 
+Pain  ▼▼▽▽▽ 
 
-| | |
-| --- | --- |
-| Pain | ▼▼▽▽▽ |
-| Trouble | ▼▼▼▼▼ |
-| Ugliness | ▼▼▼▽▽ |
-| Ripple | ▼▽▽▽▽ |
-| Impact | ▼▽▽▽▽ |
-| Lethality | ▼▼▼▽▽ |
+Trouble  ▼▼▼▼▼ 
+
+Ugliness  ▼▼▼▽▽ 
+
+Ripple  ▼▽▽▽▽ 
+
+Impact  ▼▽▽▽▽ 
+
+Lethality  ▼▼▼▽▽ 
 
 If you can find a good location, it's easy. However, be aware that it is possible that after a large-scale search, you will be rescued, but your hands and feet will be frozen and must be amputated.
 

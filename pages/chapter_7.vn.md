@@ -1,13 +1,16 @@
 # 7. Điện giật
 
-| | |
-| --- | --- |
-| Đau đớn | ▼▼▼▽▽ |
-| Rắc rối | ▼▼▼▼▽ |
-| Xấu | ▼▽▽▽▽ |
-| Gây náo dộng | ▼▽▽▽▽ |
-| Tác động | ▼▽▽▽▽ |
-| Sát lực | ▼▽▽▽▽ |
+Đau đớn  ▼▼▼▽▽ 
+
+Rắc rối  ▼▼▼▼▽ 
+
+Xấu  ▼▽▽▽▽ 
+
+Gây náo dộng  ▼▽▽▽▽ 
+
+Tác động  ▼▽▽▽▽ 
+
+Sát lực  ▼▽▽▽▽ 
 
 Nhẹ nhàng hơn so với những gì mọi người thường nghĩ. Nhược điểm là: điện giật trong vài giây và phải tốn công tách da khỏi dây điện.
 

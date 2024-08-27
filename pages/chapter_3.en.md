@@ -2,14 +2,17 @@
 
 ![](/img/3_0.png)
 
-| | |
-| --- | --- |
-| Pain | ▼▽▽▽▽ |
-| Trouble | ▼▽▽▽▽ |
-| Ugliness | ▼▼▼▽▽ |
-| Ripple | ▼▼▼▽▽ |
-| Impact | ▼▼▼▼▽ |
-| Lethality | ▼▼▼▼▽ |
+Pain  ▼▽▽▽▽ 
+
+Trouble  ▼▽▽▽▽ 
+
+Ugliness  ▼▼▼▽▽ 
+
+Ripple  ▼▼▼▽▽ 
+
+Impact  ▼▼▼▼▽ 
+
+Lethality  ▼▼▼▼▽ 
 
 Jumping off suddenly is painless. It is highly lethal and is the most high-modern method of suicide. It is not painful to suicide by jumping off a building or a cliff.
 

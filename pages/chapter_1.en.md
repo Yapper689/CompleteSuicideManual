@@ -2,14 +2,17 @@
 
 ![](/img/1_0.png)
 
-| | |
-| --- | --- |
-| Pain | －－－－－ |
-| Trouble | ▼▼▼▼▼ |
-| Ugliness | ▼▽▽▽▽ |
-| Ripple[^ripple] | ▼▽▽▽▽ |
-| Impact[^impact] | ▼▽▽▽▽ |
-| Lethality | ▼▽▽▽▽ |
+Pain －－－－－
+
+Trouble ▼▼▼▼▼
+
+Ugliness ▼▽▽▽▽
+
+Ripple[^ripple] ▼▽▽▽▽
+
+Impact[^impact] ▼▽▽▽▽
+
+Lethality ▼▽▽▽▽
 
 [^ripple]: 迷惑, how annoying it would be for other people to clean up if you die by this method.
 
@@ -439,7 +442,7 @@ These will kill you if you ingest them. The range between the effective dose and
 | Product name          | Ingredients          | Lethal dose                                                                 | Dosage (fatal)                          | Restrictions        |
 |-----------------------|----------------------|-----------------------------------------------------------------------------|-----------------------------------------|---------------------|
 | Barbiturates           | Barbital             | 2g(G)                                                                       | Powder only                             | Drama, point, point |
-| Immitar (same)         | Amobarbital          | rowspan="2" Inferred 1.5g(A)<br>1.5g(G)<br>At least 6g, implying 6~8g(I)<br>4.5g(H) | 100mg tablet/15～80 tablets              |                     |
+| Immitar (same)         | Amobarbital          | Inferred 1.5g(A)<br>1.5g(G)<br>At least 6g, implying 6~8g(I)<br>4.5g(H) | 100mg tablet/15～80 tablets              |                     |
 | phenobal (same)        | Phenobarbital        | 30mg tablets/50～200 tablets                                                 |                                         |                     |
 | Labona (same)          | Pentobarbital Calcium| Inferred 1g(A)<br>At least 6~8g, implying 10g(I)<br>3g(H)                    | 50mg tablet/50～200 pieces              |                     |
 | Ciclopane (same)       | Hexobarbital         | 2g(I)                                                                       | Powder only                             |                     |
@@ -677,7 +680,7 @@ Insecticide sprays turn into liquid when sprayed into the air, making them easy 
 |--------------|--------------------------|-----------------------------------------------------------|
 | Kerosene     | Multiple hydrocarbons     | Estimated 90～120g(A)(B), at least 500mg/kg(C)             |
 | Gasoline     | Multiple hydrocarbons     | 20～30ml(A), at least 10～50ml(B)                          |
-| Benzene      | Benzene                   | 10ml(A), estimated 80~100g (about 108~135ml)(B)           |
+| Benzene      | Benzene                   | 10ml(A), estimated 80 ~ 100g (about 108~135ml)(B)           |
 | Thinner      | Toluene, methanol, etc.   | Minimum 50mg/kg(A)     
 
 It is also possible to pour kerosene, gasoline, etc. on the body and light it on fire, but if you take it, you can die without much pain in a small amount. Both of these will irritate the mucous membranes and inhibit the central nervous system after taking them. Nausea, drowsiness, chest burning sensation, confusion, etc. may occur, and eventually death may occur due to respiratory arrest. Sometimes there are cases of sudden death due to ventricular fibrillation. However, there have been cases of recovery after drinking 250ml of gasoline.
@@ -738,7 +741,7 @@ Taking large amounts can cause acute liver disorders ranging from circulatory co
 |-|-|-|
 | Herbicides | Paraquat<br>Adipoyl chloride<br>Diquat | Estimated 40mg/kg(A)< br>Estimated 15ml(B)<br>6～12g/50kg(B) |
 | Aconitum | Aconitine | 3～4mg(A)(D), plant at least 1g(A) |
-| Table salt | Sodium chloride (NaCl) | Estimated 0.5~5g/kg(A) (ie 30~300g/60kg) |
+| Table salt | Sodium chloride (NaCl) | Estimated 0.5 ~ 5g/kg(A) (ie 30~300g/60kg) |
 
 Although herbicides containing paraquat are not easily available to ordinary people, they are still widely used in rural areas, so they can still be obtained. This is a highly toxic drug and the antidote is still unclear.
 
@@ -823,7 +826,7 @@ This case is a boy who committed suicide due to being bullied. As he belongs to 
 
 | Trade name | Hazardous ingredients | Lethal dose | Poisoning reaction | Symptoms |
 | - | - | - | - | - |
-| Potassium cyanide | Hydrogen cyanide<sup>51</sup><br>Potassium cyanide<sup>52</sup><br>Sodium cyanide<sup>53</sup> | 500mg(A)<br>150 ~200mg(B)<br>200~300mg(B) | Cellular respiration disorder | Sudden disturbance of consciousness and loss of consciousness. <br>From difficulty breathing to respiratory arrest and heartbeat arrest. <br>(Death within seconds after ingesting a large dose) |
+| Potassium cyanide | Hydrogen cyanide<sup>51</sup><br>Potassium cyanide<sup>52</sup><br>Sodium cyanide<sup>53</sup> | 500mg(A)<br>150  ~ 200mg(B)<br>200~300mg(B) | Cellular respiration disorder | Sudden disturbance of consciousness and loss of consciousness. <br>From difficulty breathing to respiratory arrest and heartbeat arrest. <br>(Death within seconds after ingesting a large dose) |
 | Tetrodotoxin <sup>54</sup> | About 2mg(A)(B) | Nerve paralysis | General movement disorder, disturbance of consciousness, difficulty breathing |
 | Bleaching powder (for industrial use) | Sodium perborate | 15～30g (A)<br>15～20g (B) (boric acid) | Cell protoplasm swelling | Drowsiness, headache, lethargy |
 | Desiccant | Quicklime | Estimated 30g | Mucous membrane corrosion, ulcers | Gastrointestinal ulcers and inflammation |

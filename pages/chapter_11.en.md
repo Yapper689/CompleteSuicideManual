@@ -10,14 +10,17 @@ In this chapter, let's learn about these other methods of suicide based on case 
 
 ## Case study 27: Sisters who starved to death in Toei apartment complex, Adachi Ward, Tokyo
 
-| | |
-| --- | --- |
-| Pain | ▼▼▼▼▽ |
-| Trouble | ▼▽▽▽▽ |
-| Ugliness | ▼▼▼▽▽ |
-| Ripple | ▼▽▽▽▽ |
-| Impact | ▼▼▽▽▽ |
-| Lethality | ▼▽▽▽▽ |
+Pain  ▼▼▼▼▽ 
+
+Trouble  ▼▽▽▽▽ 
+
+Ugliness  ▼▼▼▽▽ 
+
+Ripple  ▼▽▽▽▽ 
+
+Impact  ▼▼▽▽▽ 
+
+Lethality  ▼▽▽▽▽ 
 
 In August 1985, the decomposed bodies of two women were found in a room in Toei apartment complex (都営団地), Adachi Ward (足立区), Tokyo. This is a pair of sisters aged 25 and 23. The cause of death was starvation. The estimated time of death is from the end of 1984 to around February 1985. Next to the body, there is an old envelope with the words "I'll show you that I die." written by the older sister.
 
@@ -55,14 +58,17 @@ Some people say starvation is the best way to commit suicide. "Compared with oth
 
 ## Case study 28: Man who committed suicide in the quicksand of Tottori Sand Dunes
 
-| | |
-| --- | --- |
-| Pain | ▼▼▼▼▽ |
-| Trouble | ▼▼▼▼▼ |
-| Ugliness | ▼▼▽▽▽ |
-| Ripple | ▼▽▽▽▽ |
-| Impact | ▼▼▼▽▽ |
-| Lethality | ▼▼▼▽▽ |
+Pain  ▼▼▼▼▽ 
+
+Trouble  ▼▼▼▼▼ 
+
+Ugliness  ▼▼▽▽▽ 
+
+Ripple  ▼▽▽▽▽ 
+
+Impact  ▼▼▼▽▽ 
+
+Lethality  ▼▼▼▽▽ 
 
 In November 1988, a man's skeletal body was discovered in the Tottori Sand Dunes[^tottori]. At around one o'clock that afternoon, a local old man who was walking in an almost deserted place far away from the tourist routes found a skull slightly exposed in the sand. After calling the police, he unearthed a small shovel in his left hand, squatting as if holding it against his chest. Bodies in the sandpit.
 
@@ -80,14 +86,17 @@ Tottori Sand Dunes is a secret place in Japan that is as famous as the Aokigahar
 
 ## Case study 29: Woman mauled to death by bear cubs
 
-| | |
-| --- | --- |
-| Pain | ▼▼▼▼▽ |
-| Trouble | ▼▼▽▽▽ |
-| Ugliness | ▼▼▼▼▽ |
-| Ripple | ▼▼▽▽▽ |
-| Impact | ▼▼▼▼▽ |
-| Lethality | ▼▼▼▼▽ |
+Pain  ▼▼▼▼▽ 
+
+Trouble  ▼▼▽▽▽ 
+
+Ugliness  ▼▼▼▼▽ 
+
+Ripple  ▼▼▽▽▽ 
+
+Impact  ▼▼▼▼▽ 
+
+Lethality  ▼▼▼▼▽ 
 
 At about seven o'clock in the evening in February 1989, a 67-year-old housewife rushed towards the Aso Bear Ranch in the Zodiac Garden in Aso Town, Kumamoto Prefecture[^cuddly-dominion], about an hour and a half away from her home, and jumped into the bear cub pen.
 
@@ -110,14 +119,17 @@ Committing suicide by being eaten by animals is an unexpected method. However, t
 
 ## Case study 30: American woman who died using a suicide device
 
-| | |
-| --- | --- |
-| Pain | ▼▽▽▽▽ |
-| Trouble | ▼▼▼▼▼ |
-| Ugliness | ▼▽▽▽▽ |
-| Ripple | ▼▽▽▽▽ |
-| Impact | ▼▼▼▽▽ |
-| Lethality | ▼▼▼▼▼ |
+Pain  ▼▽▽▽▽ 
+
+Trouble  ▼▼▼▼▼ 
+
+Ugliness  ▼▽▽▽▽ 
+
+Ripple  ▼▽▽▽▽ 
+
+Impact  ▼▼▼▽▽ 
+
+Lethality  ▼▼▼▼▼ 
 
 American pathologist Dr. Jack Kevorkian is famous for developing a unique suicide device "Thanatron". This device is a 30-centimeter-high design that contains physiological saline solution, Pentothal, and potassium chloride in three bottles that are hung upside down. Pentothal is an anesthetic used during surgery, and potassium chloride is a powerful drug used in poisoning and execution. Its structure is that after the suicide volunteer presses the button, the timer starts, and the saline water automatically changes to Pentothal. One minute later, the potassium chloride begins to flow into the body.
 

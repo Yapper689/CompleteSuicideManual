@@ -2,14 +2,17 @@
 
 ![](/img/5_0.png)
 
-| | |
-| --- | --- |
-| Đau đớn | ▼▼▼▽▽ |
-| Rắc rối | ▼▽▽▽▽ |
-| Xấu | ▼▼▼▼▼ |
-| Gây náo động | ▼▼▼▼▼ |
-| Tác động | ▼▼▼▼▽ |
-| Sát lực | ▼▼▼▼▼ |
+Đau đớn  ▼▼▼▽▽ 
+
+Rắc rối  ▼▽▽▽▽ 
+
+Xấu  ▼▼▼▼▼ 
+
+Gây náo động  ▼▼▼▼▼ 
+
+Tác động  ▼▼▼▼▽ 
+
+Sát lực  ▼▼▼▼▼ 
 
 [ Một số chỗ trong bản dịch tiếng Anh có ghi "truck" - "xe tải" hay "car" - "ô tô" nhưng các đoạn văn chứa những từ đấy đang nói về tàu. Đã sửa. ]
 

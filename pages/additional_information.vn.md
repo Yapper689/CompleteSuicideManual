@@ -100,9 +100,9 @@ Tài liệu *hầu hết* tuân thủ cú pháp Markdown mở rộng. Tại sao 
 
 Toàn bộ phiên bản tiếng Anh đã được sao chép trực tiếp vào trang web và tôi chủ yếu dịch cuốn sách dựa trên phiên bản đó, với một số chỉnh sửa nhỏ, chú thích và ghi chú của riêng tôi. Tôi không biết tiếng Nhật hay tiếng Trung nên đây là nguồn tham khảo duy nhất của tôi. Tương tự như những bản khác, sẽ có nhiều lỗi, nhưng thật không may, tôi không phải là người cầu toàn và khả năng thấp là sẽ có một người như vậy đến đây một lần nữa.
 
-Ghi chú dịch thuật của CotardSyndrome cho biết anh ấy đã phát hiện ra hầu hết các lỗi trong phiên bản tiếng Đài Loan. Còn tôi thì đã phát hiện ra hầu hết các lỗi trong phiên bản của anh ấy.
+Ghi chú dịch thuật của CotardSyndrome cho biết anh ấy đã phát hiện ra hầu hết các lỗi trong phiên bản tiếng Đài Loan. Còn tôi thì đã phát hiện ra hầu hết các lỗi trong phiên bản của anh ấy. Bản PDF tiếng Trung đầy đủ được dán vào một trang.
 
-Chú thích của Rena có thể khó nhìn vì định dạng `<sup>...</sup>` không được hỗ trợ đầy đủ ở đây.
+Chú thích của Rena có thể khó nhìn vì định dạng `<sup>...</sup>` không được hỗ trợ đầy đủ ở đây. Hoặc nó có nhưng nó sẽ lẫn với chú thích của CotardSyndrome.
 
 Không có cú pháp Markdown nào từ phiên bản tiếng Anh đã bị thay đổi nhiều. Tuy nhiên, tôi thấy rằng trang web này khiến các liên kết Markdown để tạo điều hướng giữa các chương khá là rắc rối và có thể gây ra lỗi 404 (tôi lười), vì vậy tôi đã xóa bỏ chúng hoàn toàn. Như đã đề cập trong ghi chú dịch thuật của CotardSyndrome, các trình phân tích cú pháp khác nhau sẽ diễn giải cùng một tài liệu theo cách khác nhau, do đó, các bảng trên trang web này trông sẽ hơi khác một chút, tôi đã không định dạng chúng kỹ lưỡng. Trình kết xuất Markdown của Nextra không hỗ trợ đầy đủ các bảng HTML, do đó các bảng đó trong phiên bản tiếng Anh đã được thay thế bằng các bảng Markdown thông thường (các bảng gốc vẫn nằm trong các tệp Markdown). Xin lỗi vì [sự bất tiện này](./index.vn).
 

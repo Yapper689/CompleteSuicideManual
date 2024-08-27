@@ -2,14 +2,17 @@
 
 ![](/img/8_0.png)
 
-| | |
-| --- | --- |
-| Pain | ▼▼▼▼▽ |
-| Trouble | ▼▼▽▽▽ |
-| Ugliness | ▼▼▼▼▽ |
-| Ripple | ▼▼▼▽▽ |
-| Impact | ▼▽▽▽▽ |
-| Lethality | ▼▼▼▼▽ |
+Pain  ▼▼▼▼▽ 
+
+Trouble  ▼▼▽▽▽ 
+
+Ugliness  ▼▼▼▼▽ 
+
+Ripple  ▼▼▼▽▽ 
+
+Impact  ▼▽▽▽▽ 
+
+Lethality  ▼▼▼▼▽ 
 
 It can be done anywhere as long as there is water. But the moment of suffocation was painful, and the death was miserable. Taken together, it is not a very good way to commit suicide.
 

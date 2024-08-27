@@ -2,14 +2,17 @@
 
 ![](/img/10_0.png)
 
-| | |
-| --- | --- |
-| Đau đớn | ▼▼▽▽▽ |
-| Rắc rối | ▼▼▼▼▼ |
-| Xấu | ▼▼▼▽▽ |
-| Gây náo động | ▼▽▽▽▽ |
-| Tác động | ▼▽▽▽▽ |
-| Sát lực | ▼▼▼▽▽ |
+Đau đớn  ▼▼▽▽▽ 
+
+Rắc rối  ▼▼▼▼▼ 
+
+Xấu  ▼▼▼▽▽ 
+
+Gây náo động  ▼▽▽▽▽ 
+
+Tác động  ▼▽▽▽▽ 
+
+Sát lực  ▼▼▼▽▽ 
 
 Nếu bạn có thể tìm được một địa điểm tốt thì dễ thôi. Tuy nhiên, hãy lưu ý rằng có khả năng sau một cuộc tìm kiếm quy mô lớn, bạn sẽ được giải cứu, nhưng tay và chân của bạn sẽ bị đóng băng và sẽ phải bị cắt cụt.
 

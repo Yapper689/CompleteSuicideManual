@@ -2,14 +2,19 @@
 
 ![](/img/4_0.png)
 
-| **Wrist cutting** | |
-| --- | --- |
-| Pain | ▼▼▽▽▽ |
-| Trouble | ▼▽▽▽▽ |
-| Ugliness | ▼▽▽▽▽ |
-| Ripple | ▼▼▽▽▽ |
-| Impact | ▼▽▽▽▽ |
-| Lethality | ▼▽▽▽▽ |
+**Wrist cutting**
+
+Pain  ▼▼▽▽▽ 
+
+Trouble  ▼▽▽▽▽ 
+
+Ugliness  ▼▽▽▽▽ 
+
+Ripple  ▼▼▽▽▽ 
+
+Impact  ▼▽▽▽▽ 
+
+Lethality  ▼▽▽▽▽ 
 
 <table>
     <thead>
@@ -47,14 +52,19 @@
 
 Although I have dismissed wristcutting as good for nothing except a mere taste of suicide, rather than suicide for real, it is possible to die from it. This is one of the most peaceful ways to die even if it works, and be prepared for failure, which is likely.
 
-| **Carotid artery** | |
-| --- | --- |
-| Pain | ▼▼▽▽▽ |
-| Trouble | ▼▽▽▽▽ |
-| Ugliness | ▼▼▼▽▽ |
-| Ripple | ▼▼▼▼▽ |
-| Impact | ▼▼▼▼▽ |
-| Lethality | ▼▼▽▽▽ |
+ **Carotid artery**  
+
+Pain  ▼▼▽▽▽ 
+
+Trouble  ▼▽▽▽▽ 
+
+Ugliness  ▼▼▼▽▽ 
+
+Ripple  ▼▼▼▼▽ 
+
+Impact  ▼▼▼▼▽ 
+
+Lethality  ▼▼▽▽▽ 
 
 <table>
     <thead>
@@ -92,14 +102,19 @@ Although I have dismissed wristcutting as good for nothing except a mere taste o
 
 Want to know what it's like to have your own blood fountaining all the way to the ceiling? But it's too scary, and the chance of failure is still high, so it's not a good method.
 
-| **Seppuku** | |
-| --- | --- |
-| Pain | ▼▼▼▼▼ |
-| Trouble | ▼▼▽▽▽ |
-| Ugliness | ▼▼▼▼▽ |
-| Ripple | ▼▼▼▼▽ |
-| Impact | ▼▼▼▼▼ |
-| Lethality | ▼▼▽▽▽ |
+ **Seppuku**  
+
+Pain  ▼▼▼▼▼ 
+
+Trouble  ▼▼▽▽▽ 
+
+Ugliness  ▼▼▼▼▽ 
+
+Ripple  ▼▼▼▼▽ 
+
+Impact  ▼▼▼▼▼ 
+
+Lethality  ▼▼▽▽▽ 
 
 <table>
     <thead>
