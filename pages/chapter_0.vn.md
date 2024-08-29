@@ -28,7 +28,7 @@ Giờ, tôi thực sự muốn bắt đầu cuốn sách bằng cách mô tả c
     >
     >* Sự sụp đổ của Liên Xô:Sự kết hợp giữa những tổn thất về đạo đức, tài chính và sức khỏe do Chernobyl gây ra được coi là một trong những sự kiện dẫn đến sự sụp đổ của Liên Xô.
     >
-    >* Thị trấn Pripyat: Thị trấn Pripyat, được xây dựng để ở đây cho công nhân và gia đình họ, có dân số khoảng 50.000 người. Sơ tán diễn ra nhanh chóng sau vụ nổ reaktor, nhưng chính phủ vẫn mất một khoảng thời gian để thông báo cho người dân về tầm ảnh hưởng thực sự của thảm họa. Một số cư dân Pripyat, bao gồm cả lính cứu hỏa, đã mất mạng trong quá trình kiểm soát đám cháy phóng xạ.
+    >* Thị trấn Pripyat: Thị trấn Pripyat, được xây dựng để ở đây cho công nhân và gia đình họ, có dân số khoảng 50.000 người. Sơ tán diễn ra nhanh chóng sau vụ nổ, nhưng chính phủ vẫn mất một khoảng thời gian để thông báo cho người dân về tầm ảnh hưởng thực sự của thảm họa. Một số cư dân Pripyat, bao gồm cả lính cứu hỏa, đã mất mạng trong quá trình kiểm soát đám cháy phóng xạ.
 
 > ... Tôi đã luôn chờ đợi một cơ hội, sẵn sàng để "thể hiện một điều gì đó lớn lao". Khi cuộc bạo loạn của sinh viên nổ ra cách đây hai mươi năm, mọi người đều nghĩ, "Một ai đó to tướng sắp xuất hiện!". Cuộc đổ bộ lên mặt trăng của Apollo, cuộc khủng hoảng dầu mỏ, cuộc xâm lược của Liên Xô vào một quốc gia nào đó và kỷ nguyên Showa sắp kết thúc. Tôi nghĩ, "Động thái này sẽ làm rung chuyển trái đất". Tuy nhiên, nó chỉ là một trận động đất có cường độ 3 độ richter và nó chỉ làm đổ một bức tường. Các sinh viên nhìn nhau, mỉm cười và nói "Tuyệt!" và với đó, cuộc tụ họp đã kết thúc. ... 
 >

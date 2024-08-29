@@ -90,7 +90,35 @@ English edition Translator's note: The letters appearing in the tables, such as 
 
 ![](/img/citations_drug_dosage.png)
 
-Vietnamese edition Translator's note: I'm not translating that either.
+Vietnamese edition Translator's note: Here's a rough translation,
+
+>Ⓐ "Drug and Poison Poisoning Emergency Manual, Revised 4th Edition" (Medical Journal Co., Ltd.) 
+>
+>Ⓑ "Acute Poisoning Information File" (Hirokawa Shoten)
+>
+>Ⓒ "Emergency Poisoning Casebook" (Igaku Shoin) 
+>
+>Ⓓ "Standard Legal Medicine and Medical Law" (Igaku Shoin) 
+>
+>Ⓔ "Modern Legal Medicine" (Kanbara Publishing)
+>
+>Ⓕ "Legal Medicine for Clinical Practice" (Asakura Publishing) 
+>
+>Ⓖ "Poisoning Handbook" (Hirokawa Shoten) 
+>
+>Ⓗ "Final Exit" (Humphrey, Tokuma Shoten) 
+>
+>Ⓘ "Suicide: The Most Comfortable Way to Die" (C. Kyung and Y.L. Poniek, Tokuma Shoten) 
+>
+>Ⓙ "Overdose Symptoms and Treatment, 2nd Edition" (Eiichi Kiyoto, Toyo Shoten) 
+>
+>Ⓚ "Lethal Dose Collection" (Yoshio Ikeda, Nanzan)
+>
+>Ⓛ "Emergency Medical Care" (October something I'm not sure)
+>
+>Ⓜ "Legal Medicine Notes" (by Tanemoto Furuhata, Chuko Bunko)
+>
+>Ignore the Ⓜ
 
 \]
 

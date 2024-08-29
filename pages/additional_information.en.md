@@ -114,13 +114,19 @@ The citations for the dosage of substances appearing in Chapter 1 are keyed with
 
 ![Dosage citations](/img/citations_drug_dosage.png)
 
+*Dosage citations*
+
 Inline citations (footnotes) are keyed with numbers from 1 to 70. These numbered inline citations are not reproduced in the English translation (because I'm lazy).
 
 ![Inline citations](/img/citations_numbered.png)
 
+*Inline citations*
+
 There are also general citations, which are materials the author referred to in general during the general writing, but not at any particular place.
 
 ![General citations](/img/citations_unnumbered.png)
+
+*General citations*
 
 ## Publication history
 

@@ -98,7 +98,35 @@ Ghi chú của biên dịch viên tiếng Anh: Các chữ cái xuất hiện tro
 
 ![](/img/citations_drug_dosage.png)
 
-Ghi chú của biên dịch viên tiếng Việt: Tôi cũng không dịch nó đâu.
+Ghi chú của biên dịch viên tiếng Việt: Đây là bản dịch thô,
+
+>Ⓐ "Sổ tay cấp cứu ngộ độc thuốc và chất độc, Phiên bản sửa đổi lần thứ 4" (Công ty TNHH Medical Journal)
+>
+>Ⓑ "Hồ sơ thông tin ngộ độc cấp tính" (Hirokawa Shoten)
+>
+>Ⓒ "Sổ tay trường hợp ngộ độc cấp cứu" (Igaku Shoin)
+>
+>Ⓓ "Y học pháp lý tiêu chuẩn và Luật y khoa" (Igaku Shoin)
+>
+>Ⓔ "Y học pháp lý hiện đại" (Nhà xuất bản Kanbara)
+>
+>Ⓕ "Y học pháp lý cho thực hành lâm sàng" (Nhà xuất bản Asakura)
+>
+>Ⓖ "Sổ tay ngộ độc" (Hirokawa Shoten)
+>
+>Ⓗ "Lối thoát cuối cùng" (Humphrey, Tokuma Shoten)
+>
+>Ⓘ "Tự tử: Cách chết thoải mái nhất" (C. Kyung và Y.L. Poniek, Tokuma Shoten)
+>
+>Ⓙ "Triệu chứng và điều trị quá liều, Tái bản lần thứ 2" (Eiichi Kiyoto, Toyo Shoten)
+>
+>Ⓚ "Bộ sưu tập liều gây chết" (Yoshio Ikeda, Nanzan)
+>
+>Ⓛ "Chăm sóc y tế khẩn cấp" (Tháng 10 gì gì đó tôi không chắc)
+>
+>Ⓜ "Ghi chú về Y khoa hợp pháp" (Tanemoto Furuhata, Chuko Bunko)
+>
+>Đừng để ý đến chữ Ⓜ
 
 ]
 
