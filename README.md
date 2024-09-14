@@ -15,7 +15,9 @@ Hoặc, tải thư mục xuống và triển khai trang web trên máy riêng:
 
 Tải [thư mục](https://github.com/Yapper689/CompleteSuicideManual-VN/archive/refs/tags/Files.zip).
 
-Tải [Node.js](https://nodejs.org/en).
+Tải và cài đặt [Node.js](https://nodejs.org/en).
+
+Cài pnpm: `npm install -g pnpm`
 
 Mở terminal trong thư mục đã tải.
 
@@ -49,7 +51,9 @@ Or, download the folder and deploy the site on your own machine:
 
 Download the [files](https://github.com/Yapper689/CompleteSuicideManual-VN/archive/refs/tags/Files.zip).
 
-Download [Node.js](https://nodejs.org/en).
+Download and install [Node.js](https://nodejs.org/en).
+
+Install pnpm: `npm install -g pnpm`
 
 Open a terminal in the downloaded folder.
 

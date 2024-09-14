@@ -306,7 +306,7 @@ Ghi chú kết thúc ở đây, và vào khoảng thời gian này anh ấy đã
 
 Việc tự tử của anh ấy thực sự có thể được coi là một "thí nghiệm". Về việc để lại ghi chú, anh ấy viết: "Chết mà không để lại bất cứ thứ gì có thể dễ dàng bị hiểu lầm là kết quả của sự u sầu thường xảy ra ở độ tuổi của tôi. Tôi không muốn bị hiểu lầm theo bất kỳ cách nào, vì vậy tôi ở đây một cách bình tĩnh Để tôi xem xét kỹ lưỡng bằng chứng của chính mình." Tuy nhiên, chúng ta không biết được động cơ tự tử của anh ấy, vì vậy chúng ta chỉ có thể nghĩ rằng anh ta đã chết "để thử xem sẽ cảm thấy thế nào khi chết."
 
-Dù thế nào đi nữa, tôi mà viết ghi chú từ lúc cầm bút cho đến khi sắp mất ý thức thì nó là vô cùng quý giá. Sau "năm phút" cuối cùng, có lẽ tôi nên viết "Vậy đến lúc ngủ rồi."
+Dù thế nào đi nữa, ghi chú mà tôi viết từ lúc cầm bút cho đến khi sắp mất ý thức là vô cùng quý giá. Trong "năm phút" cuối cùng, có lẽ tôi nên viết "Vậy đến lúc ngủ rồi."
 
 Ngoài ra, như một ví dụ về việc dùng bromovalerylurea, một phụ nữ 22 tuổi đã nuốt 50 viên thuốc gồm năm loại thuốc có chứa bromovalerylurea, được phát hiện và điều trị mười hai tiếng sau khi uống thuốc, và tiếp tục trong trạng thái nửa ngủ nửa tỉnh. Mười ngày sau, cô ấy đã chết vì suy tim và viêm thận.
 
@@ -734,7 +734,7 @@ Thuốc xịt diệt côn trùng chuyển thành dạng lỏng khi phun vào kh�
 |--------------|--------------------------|-----------------------------------------------------------|
 | Kerosene     | Nhiều loại hydrocarbons     | Ước tính 90～120g(A)(B), ít nhất 500mg/kg(C)             |
 | Gasoline     | Nhiều loại hydrocarbons     | 20～30ml(A), ít nhất 10～50ml(B)                          |
-| Benzene      | Benzene                   | 10ml(A), ước tính 80~100g (khoảng 108~135ml)(B)           |
+| Benzene      | Benzene                   | 10ml(A), ước tính 80 ~ 100g (khoảng 108 ~ 135ml)(B)           |
 | Thinner      | Toluene, methanol, v.v.   | Tối thiểu 50mg/kg(A)     
 
 Cũng có thể đổ dầu hỏa, xăng, v.v. lên cơ thể và đốt, nhưng nếu bạn uống, bạn có thể chết mà không đau đớn nhiều với một lượng nhỏ. Cả hai chất này đều sẽ gây kích ứng niêm mạc và ức chế hệ thần kinh trung ương sau khi uống. Buồn nôn, buồn ngủ, cảm giác nóng rát ở ngực, lú lẫn, v.v. có thể xảy ra và cuối cùng có thể tử vong do ngừng thở. Đôi khi có những trường hợp tử vong đột ngột do rung thất. Tuy nhiên, đã có những trường hợp hồi phục sau khi uống 250ml xăng.
