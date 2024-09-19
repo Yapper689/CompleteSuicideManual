@@ -31,7 +31,7 @@ Phiên bản tiếng Anh gốc của CotardSyndrome / Kotaaru Shoukougun nằm [
 
 Phiên bản tiếng Trung gốc của YuriMiller / Rena nằm [ở đây](https://github.com/YuriMiller/CompleteSuicideManual-Zh_CN) và trong thư mục [Chinese_Files](Chinese_Files).
 
-Phiên bản tiếng Nhật có sẵn bằng cách tìm kiếm "完全自殺マニュアル" trên nhiều trang web vi phạm bản quyền sách điện tử, chẳng hạn như Library Genesis, Anna's Archive, v.v.
+Phiên bản tiếng Nhật có sẵn bằng cách tìm kiếm "完全自殺マニュアル" trên nhiều trang web sách điện tử lậu, chẳng hạn như Library Genesis, Anna's Archive, v.v.
 
 ---
 
