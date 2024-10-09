@@ -57,7 +57,7 @@ Theo số liệu năm 1991, tình hình tự tử hàng tháng được thể hi
 
 ### Ngay cả Tự tử cũng nghỉ vào ngày thứ bảy[^seventh-day]
 
-[^seventh-day]: Ngày thứ bảy trong tuần, nghĩa là Chủ nhật. Trong Kinh Thánh, việc Chúa nghỉ ngơi vào ngày thứ bảy có nguồn gốc từ quá trình kiến tạo đầu tiên (Sáng Thế Ký 1:1 - 2:4a). Sau khi đã sáng tạo ra mọi thứ, Chúa nghỉ ngơi việc nghỉ ngơi sau công việc vào ngày thứ bảy. Ngày này cũng được gọi là “Ngày Sabát,” và nó là điều răn thứ tư trong Mười Điều Răn. Trong tôn giáo, ngày này thường được coi là ngày nghỉ để chiêm niệm và tạ ơn Chúa.
+[^seventh-day]: Ngày thứ bảy trong tuần, nghĩa là Chủ nhật. Trong Kinh Thánh, việc Chúa nghỉ ngơi vào ngày thứ bảy có nguồn gốc từ quá trình kiến tạo đầu tiên (Sáng Thế Ký 1:1 - 2:4a). Sau khi đã sáng tạo ra mọi thứ, Chúa nghỉ ngơi vào ngày thứ bảy. Ngày này cũng được gọi là “Ngày Sabát,” và nó là điều răn thứ tư trong Mười Điều Răn. Trong tôn giáo, ngày này thường được coi là ngày nghỉ để chiêm niệm và tạ ơn Chúa.
 
 Tôi đã biên soạn dữ liệu của hơn 2.000 vụ tự tử được các khoa cấp cứu xử lý trong sáu năm qua tại Tokyo. Thứ tự các vụ tự tử (đã hoàn thành và cố gắng hoàn thành) là Thứ Ba (15,3%), Thứ Hai (14,9%), Thứ Sáu (14,5%), Chủ Nhật (13%), Thứ Bảy (13,8%).
 
