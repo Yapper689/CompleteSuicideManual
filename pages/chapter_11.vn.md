@@ -157,11 +157,11 @@ Theo cuộc điều tra, người đàn ông này đã đăng ký bảo hiểm t
 
 Trước khi chết, ông nói với mọi người rằng, "Tôi muốn để lại tiền bảo hiểm cho các con khi tôi chết".
 
-Người đàn ông này đã mắc bệnh lao trong bốn năm. Sau đó, ông đam mê cá cược đua xe đạp keirin[^keirin] và gia đình ông đã bị phá sản. Ông đã gây ra nhiều bất hạnh cho gia đình và ông cảm thấy xấu hổ và đau khổ. Ông đã sống xa gia đình khi tự tử.
+Người đàn ông này đã mắc bệnh lao trong bốn năm. Sau đó, ông nghiện cá cược đua xe đạp keirin[^keirin] và gia đình ông đã bị phá sản. Ông đã gây ra nhiều bất hạnh cho gia đình và cảm thấy rất hổ thẹn. Ông đã sống xa gia đình khi tự tử.
 
-[^keirin]: Keirin là một môn thể thao đua xe đạp của Nhật Bản, trong đó các tay đua xe đạp chạy nước rút để giành chiến thắng sau khi xuất phát với tốc độ được kiểm soát phía sau một người điều nhịp đi xe có gắn máy hoặc không gắn máy. Môn thể thao này được phát triển ở Nhật Bản vào khoảng năm 1948 cho mục đích cờ bạc.
+[^keirin]: Keirin là một môn thể thao đua xe đạp của Nhật Bản, trong đó các tay đua xe đạp chạy nước rút để giành chiến thắng sau khi xuất phát với tốc độ được kiểm soát phía sau một người điều nhịp đi xe có gắn máy hoặc không gắn máy. Môn thể thao này được phát triển ở Nhật Bản vào khoảng năm 1948 cho mục đích cá độ.
 
-Trong thời gian làm việc cho một công ty bất động sản, ông cũng nhận thêm công việc phụ là bảo vệ đường băng ném banh và nhân viên bán bảo hiểm nhân thọ. Ông thậm chí còn vay tiền từ người thân và bạn bè để trả phí bảo hiểm lên tới 5,5 triệu yên.
+Trong thời gian làm việc cho một công ty bất động sản, ông cũng đã nhận thêm công việc phụ là bảo vệ đường băng ném banh và nhân viên bán bảo hiểm nhân thọ. Ông thậm chí còn vay tiền từ người thân và bạn bè để trả phí bảo hiểm lên tới 5,5 triệu yên.
 
 Theo các đồng nghiệp tại công ty bất động sản, ông thường là người trung thực và có vẻ không phải là người sẽ làm những việc như thế này.
 
